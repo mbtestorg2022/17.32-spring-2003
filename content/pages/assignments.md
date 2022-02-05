@@ -9,16 +9,162 @@ Study questions for selected assigned readings are listed below, followed by pap
 Study Questions
 ---------------
 
-| CLASS # | STUDY QUESTIONS |
-| --- | --- |
-| 2 |  {{< br >}}{{< br >}} 1.  {{< anchor "class_2" >}}{{< /anchor >}}Looking at the evolution of environmental policy from the 1600s to the present try to identify several of the most apparent trends and discontinuities. Forget the details; what was happening to the relationship between the U.S. population, the government, and the environment.  {{< br >}}      {{< br >}}    a. How would you divide that history into episodes? What were the driving issues and concerns?  {{< br >}}      {{< br >}}    b. Who were the most important players in setting the environmental agenda during those episodes?  {{< br >}}      {{< br >}}    {{< br >}}2.  When did the U.S. really get an "environmental policy"? {{< br >}}{{< br >}}  |
-| 3 and 4 |  {{< br >}}{{< br >}} 1.  {{< anchor "class_3_4" >}}{{< /anchor >}}Each of the three selections in the "Limits & Survivalism" section of _Debating the Earth_ argue that human activity is threatening environmental destruction. However, each builds its argument around a different causal story. What is the causal story in each of these writings?  {{< br >}}      {{< br >}}    {{< br >}}2.  Answer the question posed above for the first two selections in the "Promethean" section of _Debating the Earth_.  {{< br >}}      {{< br >}}    {{< br >}}3.  Both the "Limits & Survivalism" authors and the "Promethean" authors enlist scientific facts to bolster their arguments. What science do they use and why do they reach opposite conclusions? {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} 1.  {{< anchor "class_5" >}}{{< /anchor >}}What seem to be the two or three most important determinants of environmental policy outcomes in the policy making process?  {{< br >}}      {{< br >}}    {{< br >}}2.  Think about our definitions of environmental politics and environmental policy-making. Now, what are the advantages of interest groups such as farmers organizing into a formal organization like the American Farm Bureau, or off-road vehicle enthusiasts organizing into the Blue Ribbon Coalition? What are the strengths of an NGO? Does it have weaknesses? {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} 1.  **{{< anchor "class_6" >}}{{< /anchor >}}Layzer (2000), Chapter 1.** What are the two or three most important influences on the final forms of the Clean Air Act and Clean Water Act of the early 1970s? Why did they have the provisions they did?  {{< br >}}      {{< br >}}    {{< br >}}2.  **Layzer (2000), Chapter 1; and Switzer (2001), Chapter 8.** How does the regularized schedule for Clean Air Act and Clean Water Act reauthorization affect pollution policy and policy-making?  {{< br >}}      {{< br >}}    {{< br >}}3.  **Layzer (2000), Chapter 1; and Switzer (2001), Chapter 8.** Why does implementation of these laws seem not to measure up to the original intent of the legislation? {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} 1.  {{< anchor "class_7" >}}{{< /anchor >}}Compare the language and provisions in the Clean Water Act with that of the Clean Air Act. How are they similar? Are there any glaring differences? {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} 1.  **{{< anchor "class_9" >}}{{< /anchor >}}Dryzek and Schlosberg, eds. (1998), Chapters 7, 8 and 9.** What are the advantages (benefits) of having professional bureaucrats set rules and regulations defining environmental policy? What are some of the disadvantages (costs) of this approach?  {{< br >}}      {{< br >}}    {{< br >}}2.  Can government bureaucracies really implement policy in a "value free" way? {{< br >}}{{< br >}}  |
-| Two days after Class #9 |  {{< br >}}{{< br >}} 1.  **{{< anchor "twodaysafterclass_9" >}}{{< /anchor >}}Layzer (2000), Chapter 8.** How did the problem of acid rain get on (1) the public agenda and (2) the government agenda?  {{< br >}}      {{< br >}}    {{< br >}}2.  How did science and politics play off one another in policymaking leading up the 1990 Clean Air Act Amendments?  {{< br >}}      {{< br >}}    {{< br >}}3.  How does the use of "market mechanisms" such as pollution credit trading make environmental regulation less costly?  {{< br >}}      {{< br >}}    {{< br >}}4.  **Dryzek and Schlosberg, eds. (1998), pp. 207-254.** Does resort to market mechanisms necessarily imply less stringent pollution control?  {{< br >}}      {{< br >}}    {{< br >}}5.  What are the inequities and perhaps moralities of using market mechanisms for pollution control? Do they matter? {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} 1.  **{{< anchor "class_16" >}}{{< /anchor >}}Layzer (2000), Chapter 6.** As you read this chapter on the Spotted Owl controversy, think about the many twists and turns that case takes in the effort to define a policy that protects endangered species, protects timber and property rights interests, protects timber communities, protects regional economies, etc. Think about the number of false starts, dead ends, reversals, partial victories, etc. and ask yourself: What is environmental policy and who makes it? Which of the many things--many contradictory things--that government does defines policy? {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CLASS #
+{{< thclose >}}
+{{< thopen >}}
+STUDY QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  {{< anchor "class_2" >}}{{< /anchor >}}Looking at the evolution of environmental policy from the 1600s to the present try to identify several of the most apparent trends and discontinuities. Forget the details; what was happening to the relationship between the U.S. population, the government, and the environment.  
+      
+    a. How would you divide that history into episodes? What were the driving issues and concerns?  
+      
+    b. Who were the most important players in setting the environmental agenda during those episodes?  
+      
+    
+2.  When did the U.S. really get an "environmental policy"?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 and 4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  {{< anchor "class_3_4" >}}{{< /anchor >}}Each of the three selections in the "Limits & Survivalism" section of _Debating the Earth_ argue that human activity is threatening environmental destruction. However, each builds its argument around a different causal story. What is the causal story in each of these writings?  
+      
+    
+2.  Answer the question posed above for the first two selections in the "Promethean" section of _Debating the Earth_.  
+      
+    
+3.  Both the "Limits & Survivalism" authors and the "Promethean" authors enlist scientific facts to bolster their arguments. What science do they use and why do they reach opposite conclusions?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  {{< anchor "class_5" >}}{{< /anchor >}}What seem to be the two or three most important determinants of environmental policy outcomes in the policy making process?  
+      
+    
+2.  Think about our definitions of environmental politics and environmental policy-making. Now, what are the advantages of interest groups such as farmers organizing into a formal organization like the American Farm Bureau, or off-road vehicle enthusiasts organizing into the Blue Ribbon Coalition? What are the strengths of an NGO? Does it have weaknesses?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  **{{< anchor "class_6" >}}{{< /anchor >}}Layzer (2000), Chapter 1.** What are the two or three most important influences on the final forms of the Clean Air Act and Clean Water Act of the early 1970s? Why did they have the provisions they did?  
+      
+    
+2.  **Layzer (2000), Chapter 1; and Switzer (2001), Chapter 8.** How does the regularized schedule for Clean Air Act and Clean Water Act reauthorization affect pollution policy and policy-making?  
+      
+    
+3.  **Layzer (2000), Chapter 1; and Switzer (2001), Chapter 8.** Why does implementation of these laws seem not to measure up to the original intent of the legislation?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  {{< anchor "class_7" >}}{{< /anchor >}}Compare the language and provisions in the Clean Water Act with that of the Clean Air Act. How are they similar? Are there any glaring differences?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  **{{< anchor "class_9" >}}{{< /anchor >}}Dryzek and Schlosberg, eds. (1998), Chapters 7, 8 and 9.** What are the advantages (benefits) of having professional bureaucrats set rules and regulations defining environmental policy? What are some of the disadvantages (costs) of this approach?  
+      
+    
+2.  Can government bureaucracies really implement policy in a "value free" way?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two days after Class #9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  **{{< anchor "twodaysafterclass_9" >}}{{< /anchor >}}Layzer (2000), Chapter 8.** How did the problem of acid rain get on (1) the public agenda and (2) the government agenda?  
+      
+    
+2.  How did science and politics play off one another in policymaking leading up the 1990 Clean Air Act Amendments?  
+      
+    
+3.  How does the use of "market mechanisms" such as pollution credit trading make environmental regulation less costly?  
+      
+    
+4.  **Dryzek and Schlosberg, eds. (1998), pp. 207-254.** Does resort to market mechanisms necessarily imply less stringent pollution control?  
+      
+    
+5.  What are the inequities and perhaps moralities of using market mechanisms for pollution control? Do they matter?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+1.  **{{< anchor "class_16" >}}{{< /anchor >}}Layzer (2000), Chapter 6.** As you read this chapter on the Spotted Owl controversy, think about the many twists and turns that case takes in the effort to define a policy that protects endangered species, protects timber and property rights interests, protects timber communities, protects regional economies, etc. Think about the number of false starts, dead ends, reversals, partial victories, etc. and ask yourself: What is environmental policy and who makes it? Which of the many things--many contradictory things--that government does defines policy?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Essay Assignments
 -----------------
