@@ -28,11 +28,11 @@ Boehmer-Christiansen, Sonja, and Jim Skea. "Government, Politics and Environment
 
 Bullard, Robert D. "Anatomy of Environmental Racism." In _Debating the Earth_, pp. 471-492.
 
-Congressional Research Service. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[IB90122 - Automobile and Light Truck Fuel Economy: The CAFE Standards (PDF)](http://www.policyarchive.org/handle/10207/2827). 2003.
+Congressional Research Service. [IB90122 - Automobile and Light Truck Fuel Economy: The CAFE Standards (PDF)](http://www.policyarchive.org/handle/10207/2827). 2003.
 
 Dodge, Jim. "Living By Life: Some Bioregional Theory and Practice." In _Debating the Earth_, pp. 365-373.
 
-Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." Public Interest 28 (1972): 38-50. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://sciencepolicy.colorado.edu/students/envs_5720/downs_1972.pdf))
+Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." Public Interest 28 (1972): 38-50. ([PDF](http://sciencepolicy.colorado.edu/students/envs_5720/downs_1972.pdf))
 
 Easterbrook, Gregg. "The Ecorealist Manifesto." In _Debating the Earth_, pp. 66-69.
 
