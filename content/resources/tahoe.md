@@ -4,6 +4,7 @@ description: TAHOE-SIERRA PRESERVATION COUNCIL, INC., ET AL. v. TAHOE REGIONAL P
   AGENCY ET AL.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-32-environmental-politics-and-policy-spring-2003/8ad00315d2cc92c0250cf42f0949e4ae_tahoe.pdf
 file_type: application/pdf
+parent_uid: 7f4b1700-dbfe-a008-c8a4-3804240403b6
 resourcetype: Document
 title: tahoe.pdf
 uid: 8ad00315-d2cc-92c0-250c-f42f0949e4ae

@@ -3,6 +3,7 @@ content_type: resource
 description: Are Environmental Problems Getting Worse or Better?
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/17-32-environmental-politics-and-policy-spring-2003/bf75329f59c5f72754fb470889a04545_173202limitedearth.pdf
 file_type: application/pdf
+parent_uid: b67ffa26-7132-cd00-e970-642a358fef41
 resourcetype: Document
 title: 173202limitedearth.pdf
 uid: bf75329f-59c5-f727-54fb-470889a04545
